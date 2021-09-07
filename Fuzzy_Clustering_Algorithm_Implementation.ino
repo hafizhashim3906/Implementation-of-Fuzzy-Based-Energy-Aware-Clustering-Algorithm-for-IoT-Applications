@@ -185,10 +185,6 @@ byte charToHex(byte ch);
 
 // Blink diode after 1 second
 
-/////////////////   CHANGE HERE ADD DISTANCE TO BS ==> TO DISCOVER NODE LEVEL
-
-
-
 /**
  * isrT1event
  *
